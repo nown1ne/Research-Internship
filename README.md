@@ -1,4 +1,4 @@
-# Summer Internship at IIITNR College
+# Summer Internship at IIITNR 
 ## Overview
 This repository contains the code and project reports from my enriching six-week summer internship at IIITNR College, where I worked under the mentorship of Dr. Mallikharjuna Rao. During this internship, I had the opportunity to explore the exciting domains of Artificial Intelligence (AI), Machine Learning (ML), and Data Analysis.
 
