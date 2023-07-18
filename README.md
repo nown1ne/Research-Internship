@@ -20,5 +20,9 @@ During Week 5, I implemented multiple SRGMs using Python and analyzed their perf
 ## Week 6: Optimization Techniques and Hackathon Success
 In the final week, I incorporated optimization techniques like ABC, PSO, and GA to improve the working of SRGMs. I also participated in a nationwide data analytics hackathon and secured the top position in the private leaderboard, applying my AI and ML skills.
 
+
+![image](https://github.com/nown1ne/Research-Internship/assets/25835195/a7964c08-1b09-4e27-862b-82bf75ae35d8)
+[Link to the Private Leaderboard](https://aiplanet.com/challenges/348/capstone-project-consulting-and-analytics-club-iit-guwahati-2afdff11/leaderboard/private)
+
 # Conclusion and Gratitude
 This summer internship has been an invaluable experience that has deepened my knowledge of AI, ML, and data analytics. I am thankful to Dr. Mallikharjuna Rao for his guidance and support throughout this journey. The projects and code in this repository showcase the culmination of my efforts during the internship.
